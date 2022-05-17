@@ -1,3 +1,3 @@
 # RPG-Dungeon
 
-![Alt Text](C:\Users\ericd\OneDrive\Documents\RPG\rpg_gif1.gif)
+<img src="rpg_gif1.gif" width="40" height="40" />
